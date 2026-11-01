@@ -1,0 +1,25 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/b/Lab-2/RISCV/RISCV.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_ALU_Control.sv,1792246616,systemVerilog,,,,tb_ALU_Control,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Alu.sv,1791566340,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_mux2x1.sv,,tb_Alu,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Control.sv,1792246659,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_ALU_Control.sv,,tb_Control,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Imm_generator.sv,1790955146,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_regfile.sv,,tb_imm_generator,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_data_memory.sv,1792246730,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_instruction_mem.sv,,tb_data_memory,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_instruction_mem.sv,1792246689,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_top.sv,,tb_instruction_mem,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_mux2x1.sv,1790955183,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Imm_generator.sv,,tb_mux2x1,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_program_counter.sv,1790955065,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Control.sv,,tb_program_counter,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_regfile.sv,1790955111,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_program_counter.sv,,tb_regfile,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_top.sv,1792249964,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_Alu.sv,,tb_top,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/ALU_Control.sv,1792165489,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Alu.sv,,ALU_Control,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Alu.sv,1792060425,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Control.sv,,Alu,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Control.sv,1792060294,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Imm_generator.sv,,Control,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/Imm_generator.sv,1792060375,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/mux2x1.sv,,imm_generator,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/data_memory.sv,1792164929,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/instruction_mem.sv,,data_memory,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/instruction_mem.sv,1792246814,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/ALU_Control.sv,,instruction_mem,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/mux2x1.sv,1792060805,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/program_counter.sv,,mux2x1,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/program_counter.sv,1792060255,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/regfile.sv,,program_counter,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/regfile.sv,1792060773,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/top.sv,,regfile,,,,,,,,
+D:/b/Lab-2/RISCV/RISCV.srcs/sources_1/new/top.sv,1792165578,systemVerilog,,D:/b/Lab-2/RISCV/RISCV.srcs/sim_1/new/tb_data_memory.sv,,top,,,,,,,,

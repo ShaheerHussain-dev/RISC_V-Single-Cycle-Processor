@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../RISCV.srcs/sources_1/new/data_memory.sv" \
+"../../../../RISCV.srcs/sources_1/new/instruction_mem.sv" \
+"../../../../RISCV.srcs/sources_1/new/ALU_Control.sv" \
+"../../../../RISCV.srcs/sources_1/new/Alu.sv" \
+"../../../../RISCV.srcs/sources_1/new/Control.sv" \
+"../../../../RISCV.srcs/sources_1/new/Imm_generator.sv" \
+"../../../../RISCV.srcs/sources_1/new/mux2x1.sv" \
+"../../../../RISCV.srcs/sources_1/new/program_counter.sv" \
+"../../../../RISCV.srcs/sources_1/new/regfile.sv" \
+"../../../../RISCV.srcs/sources_1/new/top.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_data_memory.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_instruction_mem.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_top.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_Alu.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_mux2x1.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_Imm_generator.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_regfile.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_program_counter.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_Control.sv" \
+"../../../../RISCV.srcs/sim_1/new/tb_ALU_Control.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
